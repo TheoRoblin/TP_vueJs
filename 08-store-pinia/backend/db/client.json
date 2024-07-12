@@ -1,0 +1,37 @@
+[
+  {
+    "id": 3,
+    "firstName": "Ethan",
+    "lastName": "Collignon",
+    "companyName": "Autre test Industries",
+    "date": "2023-03-14",
+    "function": "Secretaire",
+    "telephone": "0303030303",
+    "email": "test@gmail.com",
+    "address": {
+      "address1": "address1",
+      "address2": "address2",
+      "postCode": "postCode",
+      "city": "Metz",
+      "country": "France"
+    }
+  },
+  {
+    "id": 1720791463939,
+    "firstName": "Test",
+    "lastName": "test",
+    "companyName": "qsfqsdgqdg",
+    "date": "2024-07-12",
+    "function": "test",
+    "telephone": 111111111,
+    "email": "toto57270@outlook.Fr",
+    "address": {
+      "address1": "qsdfqsf",
+      "address2": "qsdfsf",
+      "postCode": "62626",
+      "city": "qsdfqsdf",
+      "country": "qsdfqsf"
+    },
+    "idclient": "18a70820-5e0f-45fe-8cf0-92944ce2aa12"
+  }
+]
